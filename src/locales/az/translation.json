@@ -1,0 +1,11 @@
+{
+    "logo": "Loqo",
+    "autotransport": "Avtodaşıma",
+    "main": {
+        "welcome": "Avtomobil satış platformamız sizi salamlayır!",
+        "login": "Daxil ol",
+        "forgot_password": "Şifrəmi unutdum",
+        "register": "Qeydiyyat",
+        "contact_manager": "Menecerə sual verin"
+    }
+}

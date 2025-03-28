@@ -1,0 +1,32 @@
+.register__form {
+  padding: 94px 16px 0;
+}
+
+.label {
+  display: inline-block;
+  margin-bottom: 8px;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: var(--black);
+}
+
+.label-required {
+  color: var(--red);
+}
+
+.group{
+  position: relative;
+}
+
+.register__buttons {
+  display: flex;
+}
+
+.register__photos {
+  display: none;
+}
+
+.error-photos {
+  top: 75px;
+}
